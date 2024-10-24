@@ -25,7 +25,7 @@
 	"author": "Rafael Raupp",
 	"license": "MIT",
 	"dependencies": {
-		"vue": "^2.0.0"
+		"vue": "^3.0.0"
 	},
 	"bugs": {
 		"url": "https://github.com/RauppRafael/vue-component-lazy-loader/issues"
